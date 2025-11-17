@@ -1,4 +1,3 @@
-#include <a.out.h>
 #include <adcintrin.h>
 #include <adxintrin.h>
 #include <aio.h>
@@ -33,4 +32,9 @@
 #define uint128 __uint128_t
 #define ino __ino_t
 #define ino64 __ino64_t
+#define quad quad_t
+#define u_quad u_quad_t
+#define long long_t
+#define dev dev_t
+#define uid uid_t
 #endif
