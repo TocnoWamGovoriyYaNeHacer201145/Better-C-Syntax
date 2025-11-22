@@ -7,10 +7,9 @@
 #define CODE
 #define null NULL
 #define print printf
-#define str char
-#define str8 char8_t
-#define str16 char16_t
-#define str32 char32_t
+#define char8 char8_t
+#define char16 char16_t
+#define char32 char32_t
 #define function void
 #define null_return return(0)
 #define int8 __int8_t
